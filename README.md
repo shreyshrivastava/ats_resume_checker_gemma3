@@ -91,5 +91,5 @@ All processing is done locally. Your resume and job description are **never uplo
 ---
 
 ## 📸 Screenshot
+\![image](https://github.com/user-attachments/assets/8f88faba-9cdc-4afe-a5b8-a9f154b526be)
 
-*(optional placeholder for UI image)*
